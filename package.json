@@ -1,8 +1,8 @@
 {
-    "name"            : "w4it"
-  , "version"         : "0.0.1"
-  , "description"     : "A simple module that provides a some simple wait functionality .."
-  , "main"            : "main.js"
+    "name"              : "w4it"
+  , "version"           : "0.0.2"
+  , "description"       : "A simple module that provides a some simple wait functionality .."
+  , "main"              : "main.js"
   , "scripts"     : {
         "test"          : "test all"
   }
@@ -10,11 +10,12 @@
         "type"          : "git"
     ,   "url"           : "https://github.com/cloned2k16/W4it"
   }
-  , "keywords"        : [
+  , "keywords"    : [
         "wait"
     ,   "sleep"
     ,   "until"
   ]
-  , "author"          : "Paolo Lioy"
-  , "license"         : "CC-BY-NC-4.0"
+  , "author"            : "Paolo Lioy"
+  , "license"           : "CC-BY-NC-4.0"
+  , "readmeFilename"    : "README.md"
 }
