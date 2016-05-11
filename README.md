@@ -1,6 +1,7 @@
 # W4it 
 [![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
-![Dependencies](https://david-dm.org/cloned2k16/W4it.svg)
+[![Dependencies](https://david-dm.org/cloned2k16/W4it.svg)](https://david-dm.org/cloned2k16/W4it)
+[![devDependency Status](https://david-dm.org/cloned2k16/W4it/dev-status.svg)](https://david-dm.org/cloned2k16/W4it/dev-status)
 
 A simple yet useful NodeJS module that provide Wait Sleep and other async funcionality
 
