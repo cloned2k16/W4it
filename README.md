@@ -1,4 +1,5 @@
 # W4it 
+[![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
 
 A simple yet useful NodeJS module that provide Wait Sleep and other async funcionality
 
