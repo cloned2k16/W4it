@@ -33,3 +33,7 @@ install:
   - set PATH=%APPDATA%\npm;%PATH%
   - npm install
   
+build_script:
+  - echo %CD%
+  - ps: cd W4it
+  - echo %CD%
