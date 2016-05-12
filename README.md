@@ -9,6 +9,7 @@
 [![devDependency Status](https://david-dm.org/cloned2k16/W4it/dev-status.svg)](https://david-dm.org/cloned2k16/W4it/dev-status)
 [![Build Status](https://travis-ci.org/cloned2k16/W4it.svg?branch=master)](https://travis-ci.org/cloned2k16/W4it)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/cloned2k16/W4it?branch=master&svg=true&retuna=true)](https://ci.appveyor.com/project/cloned2k16/w4it)
+[ ![Codeship Status for cloned2k16/W4it](https://codeship.com/projects/9f7762c0-faa3-0133-710a-62aab1eea2ae/status?branch=master)](https://codeship.com/projects/151667)
 
 [![Gitter](https://badges.gitter.im/cloned2k16/W4it.svg)](https://gitter.im/cloned2k16/W4it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
