@@ -1,4 +1,5 @@
 # W4it 
+[![Package Info](http://img.shields.io/badge/npm-w4it-blue.svg)](https://npmjs.org/package/w4it)
 [![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
 [![Dependencies](https://david-dm.org/cloned2k16/W4it.svg)](https://david-dm.org/cloned2k16/W4it)
 [![devDependency Status](https://david-dm.org/cloned2k16/W4it/dev-status.svg)](https://david-dm.org/cloned2k16/W4it/dev-status)
