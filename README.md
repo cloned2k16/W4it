@@ -3,9 +3,10 @@
 [![Dependencies](https://david-dm.org/cloned2k16/W4it.svg)](https://david-dm.org/cloned2k16/W4it)
 [![devDependency Status](https://david-dm.org/cloned2k16/W4it/dev-status.svg)](https://david-dm.org/cloned2k16/W4it/dev-status)
 [![Build Status](https://travis-ci.org/cloned2k16/W4it.svg?branch=master)](https://travis-ci.org/cloned2k16/W4it)
-[![Coverage Status](https://coveralls.io/repos/github/cloned2k16/W4it/badge.svg?branch=master)](https://coveralls.io/github/cloned2k16/W4it?branch=master)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/cloned2k16/W4it?branch=master&svg=true&retuna=true)](https://ci.appveyor.com/project/cloned2k16/w4it)
 
 [![Gitter](https://badges.gitter.im/cloned2k16/W4it.svg)](https://gitter.im/cloned2k16/W4it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Coverage Status](https://coveralls.io/repos/github/cloned2k16/W4it/badge.svg?branch=master)](https://coveralls.io/github/cloned2k16/W4it?branch=master)
 
 A simple yet useful NodeJS module that provide Wait Sleep and other async funcionality
 
