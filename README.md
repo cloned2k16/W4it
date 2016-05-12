@@ -1,4 +1,6 @@
 # W4it 
+
+[![Join the chat at https://gitter.im/cloned2k16/W4it](https://badges.gitter.im/cloned2k16/W4it.svg)](https://gitter.im/cloned2k16/W4it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
 [![Dependencies](https://david-dm.org/cloned2k16/W4it.svg)](https://david-dm.org/cloned2k16/W4it)
 [![devDependency Status](https://david-dm.org/cloned2k16/W4it/dev-status.svg)](https://david-dm.org/cloned2k16/W4it/dev-status)
