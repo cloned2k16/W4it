@@ -1,6 +1,10 @@
 # W4it 
 [![Package Info](http://img.shields.io/badge/npm-w4it-blue.svg)](https://npmjs.org/package/w4it)
 [![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
+[![version](https://img.shields.io/npm/v/w4it.svg)](https://npmjs.org/package/w4it) 
+[![license](https://img.shields.io/npm/l/w4it.svg)](https://npmjs.org/package/w4it) 
+[![installs](https://img.shields.io/npm/dt/w4it.svg)](https://npmjs.org/package/w4it) 
+
 [![Dependencies](https://david-dm.org/cloned2k16/W4it.svg)](https://david-dm.org/cloned2k16/W4it)
 [![devDependency Status](https://david-dm.org/cloned2k16/W4it/dev-status.svg)](https://david-dm.org/cloned2k16/W4it/dev-status)
 [![Build Status](https://travis-ci.org/cloned2k16/W4it.svg?branch=master)](https://travis-ci.org/cloned2k16/W4it)
