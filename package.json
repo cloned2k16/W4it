@@ -18,4 +18,12 @@
   , "author"            : "Paolo Lioy"
   , "license"           : "CC-BY-NC-4.0"
   , "readmeFilename"    : "README.md"
+  , "bugs"              : {
+        "url": "https://github.com/cloned2k16/W4it/issues"
+  }
+  , "devDependencies"   : {
+        "coffee-script" : ""
+    ,   "mocha"         : ""
+    
+  }
 }
