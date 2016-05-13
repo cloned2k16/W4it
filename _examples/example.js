@@ -15,6 +15,9 @@ request.get('http://ipinfo.io/json/', function (err, response, body) {
 
 });
             
-w4it.done ('inProgress',_);
+w4it.done ('inProgress',_
+    ,   function then () {
+            console.log('Done.');
+    });
 
-console.log('Done.');
+

@@ -16,6 +16,10 @@ request.get('http://ipinfo.io/json/', function (err, response, body) {
 });
             
 
-w4it.done ( function () { return !_.inProgress });
+w4it.done ( function done   () { return !_.inProgress }
+    ,       function then   () {
+        console.log('Done.');
+    }           
+);
 
-console.log('Done.');
+
