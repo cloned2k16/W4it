@@ -1,20 +1,17 @@
+"use strict";
+
 var W4it        =   { 
-                        Name:       'Wait For It (aka W4it)' 
-                    ,   Desc:       'A module handling Async Wait Sleep etc..'
-                    ,   Version:    '0.0.1'
-                    ,   _out:        process.stdout
+                        name:       'Wait For It (aka W4it)' 
+                    ,   desc:       'A module handling Async Wait Sleep etc..'
+                    ,   version:    '0.0.4'
+                    ,   Anima:      false
+                    ,   _out:       process.stdout
                     };
 
 module.exports  =   W4it;
 
-    W4it.disableAnimation   =   function () {
-        this._out = {}; 
-        this._out.write=function () {} // black hole :D
-    };        
-
-    W4it.enableAnimation   =   function () {
-        this._out = process.stdout; 
-    };        
+    W4it.disableAnimation   =   function () { this.Anima = false; };        
+    W4it.enableAnimation    =   function () { this.Anima = true;  };        
     
     W4it.done   = function  Wait4It (doneFn,thenFn) {   // you may call it with  W4IT.done('boolPropertyName', obj )
                                                         // where obj.boolPropery is the flag that signal when we are done :D
@@ -73,13 +70,13 @@ module.exports  =   W4it;
                     if ( doneFn()) { 
                         clearTimeout(to);
                         setTimeout(thenFn,1);  
-                        W4it._out.write('\n..\n');
+                        if (W4it.Anima) W4it._out.write('\n.\n');
                         return; 
                     }    
             if (!to){  
                 cnt++;
                 to=setTimeout( function () {
-                    if(!doneFn()) W4it._out.write(aNiMeD[cnt%aNiMeD.length]+'\r');
+                    if(!doneFn() && W4it.Anima ) W4it._out.write(aNiMeD[cnt%aNiMeD.length]+'\r');
                     to=0;
                 },16);
             } 
