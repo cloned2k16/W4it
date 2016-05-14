@@ -18,6 +18,9 @@ A simple yet useful NodeJS module that provide Wait Sleep and other async funcio
 
 <img src="W4it.gif" alt="in use by jsNVM">
 
+you may also wanna check out this example of usage online [Complete Node Version List](http://cloned2k16.github.io/jsNVM/)
+<br>where it's used to sync two request to different sites and then mix up togheter the results
+<br>showing the complete list of Node Releases either coming from Node or IO.JS
 
 
 
