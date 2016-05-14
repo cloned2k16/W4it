@@ -23,8 +23,8 @@ module.exports  =   W4it;
             ,   n       =   a[0]
             ,   inProg  =   o[n]
             ;
-            Object.defineProperty(o, n, {   set: function   (v) { inProg=v;     }    
-                                        ,   get: function   ()  { return done;  } 
+            Object.defineProperty(o, n, {   set: function   (v) { inProg=v;       }    
+                                        ,   get: function   ()  { return inProg;  } 
             });
             doneFn = function () { return !inProg; }
             thenFn = a[2]

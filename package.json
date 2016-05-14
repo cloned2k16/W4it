@@ -1,6 +1,6 @@
 {
     "name"              : "w4it"
-  , "version"           : "0.0.4"
+  , "version"           : "0.0.5"
   , "description"       : "A simple module that provides a some simple wait functionality .."
   , "main"              : "main.js"
   , "scripts"     : {
