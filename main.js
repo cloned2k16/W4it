@@ -3,12 +3,16 @@
 var W4it        =   { 
                         name:       'Wait For It (aka W4it)' 
                     ,   desc:       'A module handling Async Wait Sleep etc..'
-                    ,   version:    '0.0.4'
+                    ,   version:    '0.0.6'
                     ,   Anima:      false
-                    ,   _out:       process.stdout
+                    ,   _out:       this
                     };
 
-module.exports  =   W4it;
+if (typeof module !== 'undefined' && module.exports) { 
+    module.exports  =   W4it; 
+    W4it._out       =   process.stdout
+}
+else W4it.write     =   function () { /*black hole*/ }
 
     W4it.disableAnimation   =   function () { this.Anima = false; };        
     W4it.enableAnimation    =   function () { this.Anima = true;  };        
