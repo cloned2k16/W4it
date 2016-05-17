@@ -13,6 +13,7 @@
 
 [![Gitter](https://badges.gitter.im/cloned2k16/W4it.svg)](https://gitter.im/cloned2k16/W4it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![NPM](https://nodei.co/npm/w4it.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/w4it/)
 
 A simple yet useful NodeJS module that provide Wait Sleep and other async funcionality
 
