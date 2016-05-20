@@ -1,7 +1,13 @@
 # W4it 
+A simple yet useful NodeJS module that provide Wait Sleep and other async funcionality
+
+You can easily install  by using Bower, a package manager for front-end components.
+
+[![bower](http://benschwarz.github.io/bower-badges/badge@2x.png)](http://bower.herokuapp.com/packages/doc_ready)
+`bower install doc_ready`
+
 [![Package Info](http://img.shields.io/badge/npm-w4it-blue.svg)](https://npmjs.org/package/w4it)
 [![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
-
 [![license](https://img.shields.io/npm/l/w4it.svg)](https://npmjs.org/package/w4it) 
 [![installs](https://img.shields.io/npm/dt/w4it.svg)](https://npmjs.org/package/w4it) 
 
@@ -14,8 +20,6 @@
 [![Gitter](https://badges.gitter.im/cloned2k16/W4it.svg)](https://gitter.im/cloned2k16/W4it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 [![NPM](https://nodei.co/npm/w4it.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/w4it/)
-
-A simple yet useful NodeJS module that provide Wait Sleep and other async funcionality
 
 <img src="W4it.gif" alt="in use by jsNVM">
 
