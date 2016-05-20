@@ -3,8 +3,8 @@ A simple yet useful NodeJS module that provide Wait Sleep and other async funcio
 
 You can easily install  by using Bower, a package manager for front-end components.
 
-[![bower](http://benschwarz.github.io/bower-badges/badge@2x.png)](http://bower.herokuapp.com/packages/doc_ready)
-`bower install doc_ready`
+[![bower](http://benschwarz.github.io/bower-badges/badge@2x.png)](http://bower.herokuapp.com/packages/w4it)
+`bower install w4it`
 
 [![Package Info](http://img.shields.io/badge/npm-w4it-blue.svg)](https://npmjs.org/package/w4it)
 [![npm](https://badge.fury.io/js/w4it.svg)](http://badge.fury.io/js/w4it)
