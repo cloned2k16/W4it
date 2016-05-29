@@ -1,29 +1,31 @@
 {
-    "name"              : "w4it"
-  , "version"           : "0.0.6"
-  , "description"       : "A simple module that provides a some simple wait functionality .."
-  , "main"              : "main.js"
+    "name"              :   "wait_"
+  , "version"           :   "0.0.7"
+  , "description"       :   "A simple module that provides a some simple wait functionality .."
+  , "main"              :   "main.js"
   , "scripts"     : {
-        "test"          : "mocha --check-leaks test/"
+                            "test"          : "mocha --check-leaks test/"
   }
   , "repository"  : {
-        "type"          : "git"
-    ,   "url"           : "git@github.com:cloned2k16/W4it"
+                            "type"          : "git"
+                        ,   "url"           : "git@github.com:cloned2k16/W4it"
   }
   , "keywords"    : [
-        "wait"
-    ,   "sleep"
-    ,   "until"
+                            "wait"
+                        ,   "sleep"
+                        ,   "until"
   ]
-  , "author"            : "Paolo Lioy"
-  , "license"           : "CC-BY-NC-4.0"
-  , "readmeFilename"    : "README.md"
+  , "author"            :   "Paolo Lioy"
+  , "license"           :   "CC-BY-NC-4.0"
+  , "readmeFilename"    :   "README.md"
   , "bugs"              : {
-        "url": "https://github.com/cloned2k16/W4it/issues"
+                            "url": "https://github.com/cloned2k16/W4it/issues"
   }
   , "devDependencies"   : {
-        "chai"          : "~3.5.0"
-    ,   "mocha"         : "~2.4.5"
+        "chai"          :   ""
+    ,   "mocha"         :   ""
+    ,   "request"       :   ""
+    ,   "fs"            :   ""
     
   }
 }
