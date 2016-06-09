@@ -1,6 +1,6 @@
 {
-    "name"              :   "wait_"
-  , "version"           :   "0.0.7"
+    "name"              :   "wait_4_it"
+  , "version"           :   "0.0.8"
   , "description"       :   "A simple module that provides a some simple wait functionality .."
   , "main"              :   "main.js"
   , "scripts"     : {
