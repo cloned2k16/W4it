@@ -21,8 +21,6 @@ You can easily install  by using Bower, a package manager for front-end componen
 
 [![Gitter](https://badges.gitter.im/cloned2k16/W4it.svg)](https://gitter.im/cloned2k16/W4it?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[![NPM](https://nodei.co/npm/w4it.png?downloads=true&downloadRank=true&stars=true)](https://npmjs.org/w4it/)
-
 <img src="W4it.gif" alt="in use by jsNVM">
 
 you may also wanna check out this example of usage online [Complete Node Version List](http://cloned2k16.github.io/jsNVM/)
