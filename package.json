@@ -1,5 +1,5 @@
 {
-    "name"              :   "wait_4_it"
+    "name"              :   "w4it"
   , "version"           :   "0.0.9"
   , "description"       :   "A simple module that provides a some simple wait functionality .."
   , "main"              :   "index.js"
