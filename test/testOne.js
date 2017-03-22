@@ -1,4 +1,4 @@
-var w4it        = require('../main.js')
+var w4it        = require('../index.js')
 ,   chai        = require('chai')
 ,   expect      = chai.expect
 ,   assert      = chai.assert

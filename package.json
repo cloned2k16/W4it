@@ -1,8 +1,8 @@
 {
     "name"              :   "wait_4_it"
-  , "version"           :   "0.0.8"
+  , "version"           :   "0.0.9"
   , "description"       :   "A simple module that provides a some simple wait functionality .."
-  , "main"              :   "main.js"
+  , "main"              :   "index.js"
   , "scripts"     : {
                             "test"          : "mocha --check-leaks test/"
   }
